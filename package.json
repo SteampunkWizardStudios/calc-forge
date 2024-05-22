@@ -1,0 +1,11 @@
+{
+  "name": "calc-forge",
+  "version": "0.0.1",
+  "description": "A chromium calculator extension, aiming to extend Google's calculator features with a focus on adaptiveness and ease of use with modular calculator blocks.",
+  "main": "src/extension/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "steampunkWizard",
+  "license": "MIT"
+}
